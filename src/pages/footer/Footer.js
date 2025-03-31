@@ -33,39 +33,24 @@ const Footer = () => {
 
         <div className="social-icons">
           <span className="icon">
-            <a href="https://www.github.com/devakashpandey" target="_github">
+            <a href="https://github.com/EkanshSin23" target="_github">
               <FaGithub />
             </a>
           </span>
+
+
           <span className="icon">
             <a
-              href="https://www.instagram.com/firstclasscode"
-              target="_instagram"
-            >
-              <FaInstagram />
-            </a>
-          </span>
-          <span className="icon">
-            <a href="https://www.twitter.com/devakky04" target="_twitter">
-              <FaTwitter />
-            </a>
-          </span>
-          <span className="icon">
-            <a
-              href="https://www.linkedin.com/in/devakashpandey/"
+              href="https://www.linkedin.com/in/ekansh-singh-b8807428a/"
               target="_linkedin"
             >
               <FaLinkedin />
             </a>
           </span>
-          <span className="icon">
-            <a href="https://www.youtube.com/@firstclasscode" target="_youtube">
-              <FaYoutube />
-            </a>
-          </span>
+
         </div>
         <div className="copyright">
-          Copyright © {year} Akash Pandey. All Rights Reserved.
+          Copyright © {year}. All Rights Reserved.
         </div>
       </ContentWrapper>
     </footer>
